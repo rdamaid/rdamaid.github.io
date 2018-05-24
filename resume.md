@@ -3,7 +3,7 @@ title: Resume Damai
 author: Refianto Damai Darmawan
 institute: Ilmu Komputer IPB
 date: 2018-05-24
-theme: Berkeley
+theme: Dresden
 header-includes:
 - \renewcommand{\tablename}{Tabel}
 - \renewcommand{\figurename}{Gambar}
