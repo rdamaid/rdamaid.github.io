@@ -11,8 +11,8 @@ header-includes:
 # REFIANTO DAMAI DARMAWAN
 Mahasiswa Ilmu Komputer IPB
 
-_Jl. Lingkar Kampus Dalam IPB_\
-_+62 822-4509-7024_\
+_Jl. Lingkar Kampus Dalam IPB_  
+_+62 822-4509-7024_  
 _rdamaid@gmail.com_
 
 ## Pendidikan
